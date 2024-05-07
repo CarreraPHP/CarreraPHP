@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CarreraPHP
-- 👀 I’m interested in Javascript Programming, Scaffolding, Code Generators, Web Components & React.
-- 🌱 I’m currently learning RUST.
+- 👋 Hi, I’m Yogesh Surendran (nick names: CarreraPHP, CarreraJS)
+- 👀 I’m interested in Javascript Programming, Scaffolding, Code Generators, Web Components, AI, Agents & React.
+- 🌱 I’m currently learning RUST & Python.
 - 💞️ I’m looking to collaborate on Code Generation & No Code Tools.
 - 📫 How to reach me in Twitter @carrerajs
 
